@@ -1,0 +1,1 @@
+# kata_16_example
